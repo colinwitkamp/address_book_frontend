@@ -1,11 +1,8 @@
 import {
   IonItem,
-  IonLabel,
   IonCard,
   IonCardContent,
   IonCardHeader,
-  IonCardSubtitle,
-  IonCardTitle,
 } from "@ionic/react";
 import { Contact } from "../data/contact";
 import "./ContactListItem.css";
