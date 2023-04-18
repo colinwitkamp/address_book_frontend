@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+}
+
+table {
+    border-collapse: inherit;
+    padding: 1em;
+}
+
+table, th, td {
+    border: 1px solid gray;
+    padding-left: 2px !important;
+  }
